@@ -12,6 +12,6 @@ Run `npm ci` and `npm run dev` to preview locally. Run `npm run build` to check 
 - [Public page outline and layout choice](research.md#layout-options)
 - [Actual checks and pending peer review](research.md#portfolio-actual-checks)
 
-The README navigation takes its cue from [Megan McNeal's career research notebook](https://github.com/mtm5913/Career-Research).
+Design direction is inspired by [Keith Williams’s AI Career Atlas](https://keithwilliams.org/ai-career-research/) and its [repository](https://github.com/kaw393939/ai-career-research). The custom homepage and theme implement the design for this project’s own sources and evidence.
 
-The VitePress homepage and navigation were inspired by [Mohammed Hammoudeh's career research site](https://mohammedhammoudeh8.github.io/is373-career-research/).
+[Open the website](https://sathvik-alla.github.io/is373-career-research/). Select a topic on the homepage to inspect its decision and open the detailed research.
